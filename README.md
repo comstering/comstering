@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a coder. I dream becomming a full stack and network developer.
+## I'm a coder. I dream becomming a network and full stack developer.
 - ❤️ I love programming.
 - ✨ I want to make everything using code.
 - 😜 I interested in learning new technologies.
